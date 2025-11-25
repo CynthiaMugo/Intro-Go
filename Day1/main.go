@@ -6,6 +6,8 @@ func main() {
     fmt.Println("Hello, Go!")
 	variables()
 	conditionals()
+	basicsFunctions()
+	arraysAndSlices()
 }
 	
 
