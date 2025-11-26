@@ -16,6 +16,7 @@ The project is intentionally simple and beginner-friendly, focusing on understan
 
 ## Folder Structure
 
+```
 Go-language/
 │
 ├── Day1/
@@ -28,6 +29,7 @@ Go-language/
     ├── structs.go
     ├── methods.go
     └── (more files as concepts grow)
+```
 
 ## Day 1 – Fundamentals
 ### Variables & Constants
@@ -83,5 +85,8 @@ cd Day1
 go run .
 ```
 
-
 Go will automatically execute all .go files in that folder (as long as they use package main).
+
+## Purpose
+
+This project is part of my hands-on journey to master Go — learning through building small examples, experimenting, observing outputs, and gradually moving toward real-world Go applications.
